@@ -53,4 +53,6 @@ Họ và tên: Nguyễn Trọng Hiếu.
 
 Mã sinh viên: 23020069.
 
+Team: NTH_INT34057
+
 Lớp học phần: 2526I_INT3405_7.
